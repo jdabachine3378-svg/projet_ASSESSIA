@@ -28,7 +28,6 @@ Saisie de la **réponse modèle (reference answer)**
 ###  Architecture de Assessia web:
 ![react](https://github.com/user-attachments/assets/833a7d48-7219-4f48-8611-f9ac5e30d65e)
 ###  Architecture de Assessia mobile:
-![react native](https://github.com/user-attachments/assets/8ad8aeb8-2e0a-4e14-9c34-1265cf4a3be0)
 
 ### Structure du projet :
 <img width="574" height="729" alt="image" src="https://github.com/user-attachments/assets/6114dc56-5063-4a1b-a70c-54547f20ced2" />
