@@ -25,9 +25,7 @@ Saisie de la **réponse modèle (reference answer)**
 - Accès uniquement à son **feedback personnel**
 - Confidentialité des résultats des autres étudiants
 ## Architecture golbale :
-###  Architecture de Assessia web:
-![react](https://github.com/user-attachments/assets/833a7d48-7219-4f48-8611-f9ac5e30d65e)
-###  Architecture de Assessia mobile:
+<img width="1030" height="584" alt="image" src="https://github.com/user-attachments/assets/0526768c-16e3-4034-816e-434ef8583223" />
 
 ### Structure du projet :
 <img width="574" height="729" alt="image" src="https://github.com/user-attachments/assets/6114dc56-5063-4a1b-a70c-54547f20ced2" />
