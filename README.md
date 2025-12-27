@@ -145,8 +145,9 @@ Stockage : LocalStorage (mode démo)
   ### Eureka
  ![Capture d’écran_27-12-2025_154136_localhost](https://github.com/user-attachments/assets/78574788-3a9a-485b-b712-10ff39e44a3d)
   ### rabbitmq
-  ![Capture d’écran_27-12-2025_154218_localhost](https://github.com/user-attachments/assets/7a06cdaa-1b58-44fc-8a0d-c0041e683123)
-  ![Capture d’écran_27-12-2025_154244_localhost](https://github.com/user-attachments/assets/667bbd9b-6b8b-4fde-9de3-7e9a0b385715)
+ ![Capture d’écran_27-12-2025_154218_localhost](https://github.com/user-attachments/assets/8360ba1b-3f9d-4ea1-96a6-5d6768aa9274)
+![Capture d’écran_27-12-2025_154244_localhost](https://github.com/user-attachments/assets/7322e0ca-8fec-470d-9315-7ffa4498e50d)
+
   ### base de donne Mysql:
   ### OCR:
   <img width="1755" height="840" alt="image" src="https://github.com/user-attachments/assets/013ddac1-25e9-4b89-be23-521cd0f0e7e8" />
