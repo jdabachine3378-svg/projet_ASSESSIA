@@ -1,5 +1,4 @@
 #  AssessAI – Système Automatique de Correction et d’Évaluation de Copies
-![logo jf](https://github.com/user-attachments/assets/1549142f-f9b3-4978-9afd-a206aee947c3)
 ## INTRODUCTION
 **AssessAI** est une plateforme intelligente de correction automatique des copies d’examen (PDF), basée sur une **architecture microservices** et exploitant des techniques d’**OCR**, de **NLP**, de **scoring automatique** et de **feedback pédagogique**.
 ## OBJECTIFS DU PROJET ASSESSAI
@@ -164,7 +163,23 @@ Stockage : LocalStorage (mode démo)
 
 
 https://github.com/user-attachments/assets/2ae832e2-b6d8-4932-909a-8d4b97339cb1
+ ##  CI/CD avec Jenkins
+Dans le cadre du projet ASSESSIA, nous avons mis en place une chaîne CI/CD (Intégration Continue / Déploiement Continu) en utilisant Jenkins afin d’automatiser le processus de build, de test et d’analyse de qualité du code pour les différents micro-services du système.
+ ## Le pipeline Jenkins est configuré pour gérer plusieurs micro-services du projet ASSESSIA, à savoir :
 
+-OCR Service
+
+-NLP Service
+
+-Scoring Service
+
+-Feedback Service
+Chaque service est analysé indépendamment via SonarQube, avec un sonar.projectKey spécifique.
+![Capture d’écran_28-12-2025_212224_localhost](https://github.com/user-attachments/assets/5b659fa7-afef-4c2e-a6ad-79648bab40ba)
+![Capture d’écran_28-12-2025_18717_localhost](https://github.com/user-attachments/assets/cfafa0be-aa8e-4d78-8343-20fa39ea5099)
+![Capture d’écran_28-12-2025_163814_localhost](https://github.com/user-attachments/assets/a3b6871a-033c-4007-bfe4-c92469b6b213)
+![Capture d’écran_28-12-2025_173434_localhost](https://github.com/user-attachments/assets/36d47246-5596-439c-99f8-eed0961a130b)
+<img width="1755" height="1194" alt="image" src="https://github.com/user-attachments/assets/ffeee528-7b99-4e63-b34f-d50023c6a89c" />
 
 
 ## CONCULSION:
