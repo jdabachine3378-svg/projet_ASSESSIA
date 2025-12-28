@@ -188,12 +188,14 @@ Le projet AssessAI illustre l’apport concret des technologies émergentes dans
 L’utilisation de Spring Boot, Spring Cloud, React, ainsi que des outils d’IA permet de garantir une solution modulaire, scalable et maintenable, tout en offrant une expérience utilisateur claire et intuitive pour les enseignants et les étudiants. De plus, l’intégration d’outils de qualité de code tels que SonarQube renforce la fiabilité et la maintenabilité du projet.
 Enfin, AssessAI constitue une base solide pour des évolutions futures, notamment l’intégration de modèles d’intelligence artificielle plus avancés, une authentification sécurisée, et un déploiement à grande échelle dans des environnements cloud. Ce projet démontre ainsi le potentiel de l’IA comme levier d’innovation pédagogique et d’amélioration des pratiques d’évaluation dans l’enseignement moderne
 
-## 👩‍💻 Réalisé dans le cadre de
- ### jamila dabachine et fatima ezzahra ghanimi
+## Réalisé dans le cadre de
+ ### jamila dabachine 
+###  fatima ezzahra ghanimi
+## Encadre par : Pr .Mohamed LACHGAR
  ### Master : Technologies Émergentes en Éducation
  ### ENS Marrakech
- ## 📜 Licence
-Projet académique AssessIA – Usage pédagogique uniquement
+ ## Licence
+##  Projet académique AssessIA – Usage pédagogique uniquement
 
 
 
