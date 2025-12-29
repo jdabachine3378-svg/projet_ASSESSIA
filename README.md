@@ -1,4 +1,9 @@
 #  AssessAI – Système Automatique de Correction et d’Évaluation de Copies
+![AssessAI](https://img.shields.io/badge/AssessAI-v1.0.0-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.1-brightgreen)
+![React](https://img.shields.io/badge/React-18.2.0-61DAFB)
+![Java](https://img.shields.io/badge/Java-21-orange)
+
 ## INTRODUCTION
 **AssessAI** est une plateforme intelligente de correction automatique des copies d’examen (PDF), basée sur une **architecture microservices** et exploitant des techniques d’**OCR**, de **NLP**, de **scoring automatique** et de **feedback pédagogique**.
 ## OBJECTIFS DU PROJET ASSESSAI
