@@ -29,7 +29,7 @@ Saisie de la **réponse modèle (reference answer)**
 - Accès uniquement à son **feedback personnel**
 - Confidentialité des résultats des autres étudiants
 ## Architecture golbale :
-<img width="1030" height="584" alt="image" src="https://github.com/user-attachments/assets/0526768c-16e3-4034-816e-434ef8583223" />
+<img width="1536" height="1024" alt="ChatGPT Image 2 janv  2026, 13_19_26" src="https://github.com/user-attachments/assets/0c2012bd-6cb1-4293-8784-ecb6853fdb58" />
 
 ### Structure du projet :
 <img width="574" height="729" alt="image" src="https://github.com/user-attachments/assets/6114dc56-5063-4a1b-a70c-54547f20ced2" />
